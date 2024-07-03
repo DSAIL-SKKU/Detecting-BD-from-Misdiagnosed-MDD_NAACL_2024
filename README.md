@@ -31,7 +31,7 @@ We carefully consider potential ethical issues in this work: (i) protecting user
 
 ## How to Request Access
 While it is important to ensure that all necessary precautions are taken, we are enthusiastic about sharing this valuable resource with fellow researchers. To request access to the dataset, please contact Daeun Lee (delee12@skku.edu). Access requests should follow the format of the sample application provided below, which consists of three parts:
-- Part 0: Download a sample application form (https://sites.google.com/view/daeun-lee/dataset/naacl-2024?authuser=0)
+- Part 0: Download a sample application form (https://sites.google.com/view/daeun-lee/dataset/naacl-2024)
 - Part 1: Applicant Information
 - Part 2: Dataset Access Application
 - Part 3: Ethical Review by Your Organization
